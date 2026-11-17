@@ -1,0 +1,12 @@
+# Keep downloaded and processed datasets out of version control.
+data/
+
+# Python environments and generated files.
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS metadata.
+.DS_Store
